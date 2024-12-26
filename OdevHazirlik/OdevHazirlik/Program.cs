@@ -10,6 +10,9 @@ namespace OdevHazirlik
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Deneme");
+            Console.ReadKey();
         }
     }
 }
